@@ -1,0 +1,47 @@
+Variable,n,n_groups,W1_pre,W1_post,Rel_change,p_converge,p_diverge,verdict
+COM_ARTICULATION,258,3,18.3,19.7,-7.5,0.79,0.2102,no change
+SES_PROFESSION_LEARNED,228,6,6.8,11.5,-70.4,0.997,0.0032,diverge
+prPTA_1000_CI,264,4,12.4,8.1,34.9,0.0172,0.983,converge
+COM_Gebaerden,247,2,9.3,20.2,-116.8,0.9928,0.0074,diverge
+prPTA_2000_CI,264,3,12.9,7.0,46.1,0.0042,0.996,converge
+SES_EDUCATION_LEVEL,234,5,7.0,10.6,-52.3,0.9858,0.0144,diverge
+COM_MULTILANG_HOME,250,2,4.2,11.0,-161.4,0.992,0.0082,diverge
+prPTA_6000_Co,264,3,23.2,7.3,68.6,0.0002,1.0,converge
+EVA_DEAF_ONSET,230,2,3.6,17.1,-375.7,1.0,0.0002,diverge
+prFF_2000_CI,264,3,7.0,7.2,-2.6,0.6275,0.3727,no change
+EVA_DEAF_ONSET_L,199,2,6.7,19.0,-184.2,0.9994,0.0008,diverge
+Mono2_pre,264,4,37.2,7.2,80.7,0.0002,1.0,converge
+COM_FATHER_HACI_USER,107,2,4.8,15.6,-226.5,0.9976,0.0028,diverge
+prPTA_500_CI,264,4,7.8,5.7,26.7,0.171,0.8292,no change
+prPTA_1000_Co,264,4,23.2,5.1,78.1,0.0002,1.0,converge
+C12_pre,252,4,31.4,6.2,80.1,0.0002,1.0,converge
+prPTA_4000_CI,264,3,8.7,5.6,35.7,0.0746,0.9256,no change
+prFF_6000_Co,264,3,17.1,5.7,66.5,0.0002,1.0,converge
+prFF_500_Co,264,4,11.4,7.0,38.5,0.0138,0.9864,converge
+prFF_1000_CI,264,3,6.2,3.9,37.1,0.1466,0.8536,no change
+FM_pre,264,2,21.1,2.4,88.8,0.0002,1.0,converge
+prPTA_500_Co,264,4,17.9,6.3,64.5,0.0002,1.0,converge
+EVA_HL_PROGREDIENT,232,2,7.6,4.0,46.7,0.193,0.8072,no change
+Mono1_pre,264,4,40.6,6.6,83.7,0.0002,1.0,converge
+prPTA_2000_Co,264,4,23.7,5.9,75.2,0.0002,1.0,converge
+prFF_4000_CI,264,3,6.4,6.3,2.7,0.5345,0.4657,no change
+prPTA_8000_Co,264,2,26.8,7.8,70.8,0.0002,1.0,converge
+prFF_6000_CI,264,2,4.8,5.6,-15.5,0.7167,0.2839,no change
+prPTA_4000_Co,264,3,24.2,5.8,75.9,0.0002,1.0,converge
+Num_pre,264,3,33.9,3.3,90.4,0.0002,1.0,converge
+prFF_250_Co,264,4,8.5,5.6,33.4,0.088,0.9122,no change
+prFF_500_CI,264,3,4.3,4.7,-9.5,0.6607,0.3395,no change
+prPTA_6000_CI,264,2,8.8,5.2,40.3,0.0894,0.9108,no change
+prFF_4000_Co,264,3,21.4,7.6,64.5,0.0002,1.0,converge
+prFF_250_CI,264,3,5.9,6.5,-9.7,0.7061,0.2941,no change
+prPTA_250_CI,264,4,5.2,5.9,-13.0,0.752,0.2482,no change
+V08_pre,257,4,29.6,5.7,80.9,0.0002,1.0,converge
+COM_PHONE_USE,244,4,14.7,5.4,63.4,0.0002,1.0,converge
+prPTA_125_Co,264,4,11.5,4.7,59.4,0.0006,0.9996,converge
+prFF_1000_Co,264,4,17.3,6.0,65.3,0.0002,1.0,converge
+prPTA_125_CI,264,3,4.9,6.4,-28.9,0.8488,0.1514,no change
+COM_LIP_READING,196,2,9.9,4.4,56.0,0.0468,0.9534,converge
+Geschlecht,264,2,1.7,4.1,-141.6,0.9048,0.0954,no change
+prPTA_250_Co,264,4,13.9,4.5,67.9,0.0002,1.0,converge
+prFF_2000_Co,264,4,19.9,7.0,64.9,0.0002,1.0,converge
+Age_at_OP,264,4,8.6,5.3,38.1,0.0636,0.9366,no change

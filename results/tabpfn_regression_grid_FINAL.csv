@@ -1,0 +1,5 @@
+feature_set,n_features,algorithm,r2_cv,mae_cv
+F3,3,TabPFN (zero-shot),-0.0081,20.4270
+F7,7,TabPFN (zero-shot),0.1594,18.5209
+F17,17,TabPFN (zero-shot),0.1599,18.4761
+F60,60,TabPFN (zero-shot),0.2213,17.4968

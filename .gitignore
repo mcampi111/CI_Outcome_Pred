@@ -1,20 +1,28 @@
-# Data files - NEVER commit
-*.xlsx
-*.csv
+# data — never tracked
 data/
-code/data/
-CI_Data_Package/
+*.xlsx
+*.xls
 
-# Mac files
+# macOS
 .DS_Store
-**/.DS_Store
 
-# Python
+# R / Python session files
+.Rhistory
+.Rapp.history
 __pycache__/
-*.pyc
+*.py[cod]
 .ipynb_checkpoints/
 
-# Temp files
-~$*
-*.pth
-checkpoints_*/
+# environments
+venv/
+.venv/
+env/
+
+# model and training artefacts
+catboost_info/
+*.ckpt
+*.pt
+
+# editor
+.vscode/
+.idea/
